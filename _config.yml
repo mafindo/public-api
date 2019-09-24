@@ -1,6 +1,6 @@
 ---
-exclude: ['README.markdown']
+exclude: ['README.markdown', 'THEME.markdown']
 permalink: ':title'
-pygments: true
+highlighter: 'pygments'
 safe: false
-title: 'Carte'
+title: 'Mafindo Public API'
